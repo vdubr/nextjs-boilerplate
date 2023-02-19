@@ -204,27 +204,27 @@ const Pricing = () => {
               variants={scrollAnimation}
             >
               {/* <Netflix className="h-18 w-auto" /> */}
-              <img
+              <Image
                 src="/assets/Icon/amazon.png"
                 className="h-14 w-auto mt-4 lg:mt-2"
                 alt=""
               />
-              <img
+              <Image
                 src="/assets/Icon/netflix.png"
                 className="h-14 w-auto mt-2 lg:mt-0"
                 alt=""
               />
-              <img
+              <Image
                 src="/assets/Icon/reddit.png"
                 className="h-12 w-auto mt-2 lg:mt-0"
                 alt=""
               />
-              <img
+              <Image
                 src="/assets/Icon/discord.png"
                 className="h-14 w-auto mt-2 lg:mt-0"
                 alt=""
               />
-              <img
+              <Image
                 src="/assets/Icon/spotify.png"
                 className="h-12 w-auto mt-2 lg:mt-0"
                 alt=""
